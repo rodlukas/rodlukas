@@ -1,25 +1,30 @@
 # Ing. Lukáš Rod
-I'm a **Software Engineer, Full Stack Web Developer, and Photographer**.
+I'm a Software Engineer, Full Stack Web Developer, and Photographer. I love nature (Ore Mountains ❤), traveling, and urbex. I graduated from FIT CTU Prague with a Master's degree (Ing.) in Web and Software Engineering (specialization Software Engineering).
+During my studies and projects, I had the opportunity to work with an inexhaustible number of technologies and languages. I mainly fell in love with React and Python, which I would like to focus on in the future (currently giving preference to Front-end developer jobs with React). But I like to learn new things as well.
 
-I love nature (Ore Mountains ❤), traveling, and urbex.
 
-I graduated from **FIT CTU** Prague with a Master's degree (Ing.) in Web and Software Engineering (specialization Software
-Engineering).
+I focus on creating responsive custom websites/web applications and easy-to-use information systems. The development includes meetings and cooperation with a customer, SW analysis, design, implementation, testing, and maintenance.
 
-During my studies and projects, I had the opportunity to work with an inexhaustible number of technologies and
-languages. I mainly fell in love with **React and Python**, which I would like to focus on in the future. But I like to learn new
-things as well.
+## Tech stack
+**Frontend:** React 18 / TypeScript / HTML 5 / CSS 3 / JS / customized Bootstrap 5 (or Reactstrap) / SPA (Single-Page-App) 
+P.S. In love ❤ with React!
 
-Check out [my CV](https://lukasrod.cz/kontakt/CV_Lukas_Rod-en_web.pdf).
+**Backend:** Node.js, GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 10, Filament 3), Python 3 (Gunicorn, Django web framework, REST API based on Django REST Framework), MySQL / PostgreSQL 
+
+**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD, TypeScript, Webpack, Sentry 
+
+*Frontend – My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.*
 
 ## Work experience
-**2014–today:** creating responsive custom websites/web applications and easy-to-use information systems
-* **frontend tech stack:** React 16 ❤ / TypeScript / HTML 5 / CSS 3 / JS / customized Bootstrap 4 (or
-Reactstrap) / SPA (Single-Page-App)
-* **backend tech stack:** Python 3 (Gunicorn, Django web framework, REST API based on Django REST
-Framework), MySQL / PostgreSQL, PHP 7 (for simple websites)
+**2020–today:** Senior Frontend Developer - Česká televize - [iVysílání](https://www.ceskatelevize.cz/ivysilani/)
+
+**2014–today:** freelancer - creating responsive custom websites/web applications and easy-to-use information systems
+
+## CV
+
+Check out my CV [in English](https://lukasrod.cz/kontakt/CV_Lukas_Rod-en_web.pdf) or [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod_web.pdf).
 
 ## Contact
-* **Website:** www.lukasrod.cz
+* **Website:** [lukasrod.cz](lukasrod.cz)
 * **E-mail:** jobs@lukasrod.cz
 * **Social:** [LinkedIn](https://www.linkedin.com/in/rodlukas/) / [Facebook](https://www.facebook.com/rod.lukas) / [instagram](https://www.instagram.com/rod.lukas/)
