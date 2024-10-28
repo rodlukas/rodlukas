@@ -22,7 +22,7 @@ P.S. In love ❤ with React!
 
 ## CV
 
-Check out my CV [in English](https://lukasrod.cz/kontakt/CV_Lukas_Rod-en_web.pdf) or [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod_web.pdf).
+Check out my CV [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod-2024.pdf).
 
 ## Contact
 * **Website:** [lukasrod.cz](lukasrod.cz)
