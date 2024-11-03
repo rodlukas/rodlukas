@@ -1,5 +1,5 @@
 # Ing. Lukáš Rod
-I'm a Software Engineer, Full Stack Web Developer, and Photographer. I love nature (Ore Mountains ❤), traveling, and urbex. I work as a Frontend & GQL Developer for Czech TV's online video platform iVysílání. I graduated from FIT CTU Prague with a Master's degree (Ing.) in Web and Software Engineering (specialization Software Engineering).
+I'm a Software Engineer, Full Stack Web Developer, and Photographer. I work as a Frontend & GQL Developer for Czech TV's online video platform iVysílání. I love nature (Ore Mountains ❤), traveling, and urbex. I graduated from FIT CTU Prague with a Master's degree (Ing.) in Web and Software Engineering (specialization Software Engineering).
 During my studies and projects, I had the opportunity to work with an inexhaustible number of technologies and languages. I mainly fell in love with React and Python, which I would like to focus on in the future (currently giving preference to Front-end developer jobs with React). But I like to learn new things as well.
 
 
