@@ -9,9 +9,9 @@ P.S. In love ❤ with React!
 
 > My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.*
 
-**Backend:** Node.js, GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 10, Filament 3), Python 3 (Gunicorn, Django web framework, REST API based on Django REST Framework), MySQL / PostgreSQL 
+**Backend:** Node.js, GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 11, Filament 3), Python 3 (Gunicorn, Django web framework, REST API založené na Django REST Framework), MySQL / PostgreSQL 
 
-**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD, TypeScript, Webpack, Sentry 
+**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD, Webpack, A11Y (accessibility), Figma, Abstract, Sketch, SEO, Jira, Confluence, Sentry, GTM, Docker, TDD, Scrum, Agile, ESLint, Jest, Vitest, Prettier, Kibana, Grafana, Playwright… 
 
 ## Work experience
 **2020–today:** Senior Frontend & GQL Developer - Česká televize - [iVysílání](https://www.ceskatelevize.cz/ivysilani/)
