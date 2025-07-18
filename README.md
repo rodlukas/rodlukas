@@ -7,7 +7,7 @@ I focus on creating responsive custom websites/web applications and easy-to-use 
 **Frontend:** React 18 / TypeScript / HTML 5 / CSS 3 / JS / customized Bootstrap 5 (or Reactstrap) / SPA (Single-Page-App) 
 P.S. In love ❤ with React!
 
-> My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.*
+> My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.
 
 **Backend:** Node.js, GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 11, Filament 3), Python 3 (Gunicorn, Django web framework, REST API založené na Django REST Framework), MySQL / PostgreSQL 
 
