@@ -5,6 +5,7 @@ I focus on creating responsive custom websites/web applications and easy-to-use 
 
 ## Tech stack
 **Frontend:** React 19 / TypeScript / HTML 5 / CSS 3 - vanilla extract / JS / customized Bootstrap 5 (nebo Reactstrap) / SPA (Single-Page-App) 
+
 P.S. In love ❤ with React!
 
 > My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.
