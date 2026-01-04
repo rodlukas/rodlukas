@@ -4,14 +4,14 @@ I'm a **Software Engineer, Full Stack Web Developer, and Photographer**. I work 
 I focus on creating responsive custom websites/web applications and easy-to-use information systems. The development includes meetings and cooperation with a customer, SW analysis, design, implementation, testing, and maintenance.
 
 ## Tech stack
-**Frontend:** React 18 / TypeScript / HTML 5 / CSS 3 / JS / customized Bootstrap 5 (or Reactstrap) / SPA (Single-Page-App) 
+**Frontend:** React 19 / TypeScript / HTML 5 / CSS 3 - vanilla extract / JS / customized Bootstrap 5 (nebo Reactstrap) / SPA (Single-Page-App) 
 P.S. In love ❤ with React!
 
 > My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.
 
-**Backend:** Node.js, GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 11, Filament 3), Python 3 (Gunicorn, Django web framework, REST API založené na Django REST Framework), MySQL / PostgreSQL 
+**Backend:** Node.js (Fastify), GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 11, Filament 3), Python 3 (Gunicorn, Django web framework, REST API–Django REST Framework), MySQL / PostgreSQL / Redis 
 
-**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD, Webpack, A11Y (accessibility), Figma, Abstract, Sketch, SEO, Jira, Confluence, Sentry, GTM, Docker, TDD, Scrum, Agile, ESLint, Jest, Vitest, Prettier, Kibana, Grafana, Playwright… 
+**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD (GitHub Actions), Webpack, A11Y (přístupnost), Figma, Abstract, Sketch, SEO, Jira, Confluence, Sentry, GTM, Docker, TDD, Scrum, Agile, ESLint, Jest, Vitest, Prettier, Kibana, Grafana, Playwright, Tanstack Query, Selenium (E2E testing)… 
 
 ## Work experience
 **2020–today:** Senior Frontend & GQL Developer - Česká televize - [iVysílání](https://www.ceskatelevize.cz/ivysilani/)
@@ -20,7 +20,7 @@ P.S. In love ❤ with React!
 
 ## CV
 
-Check out my CV [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod-2024.pdf).
+Check out my CV [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod-2024.pdf) or more updated portfolio [in Czech](https://lukasrod.cz/projekty/).
 
 ## Contact
 * **Website:** [lukasrod.cz](https://lukasrod.cz)
