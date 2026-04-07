@@ -1,8 +1,11 @@
 # Ing. Lukáš Rod
 
 I'm a **Full Stack Developer and TechLead** with 12+ years of experience.
+
 I currently work as a **TechLead & Senior Frontend+Node Developer for Czech TV's online video platform iVysílání**.
+
 Apart from programming, I also do photography (Ore Mountains ❤).
+
 A graduate of a master's programme at **FIT CTU** (_Web and Software Engineering_, Ing.).
 
 I focus on creating responsive custom websites/web applications and easy-to-use information systems. The development includes meetings and cooperation with customers, SW analysis, design, implementation, testing, and maintenance.
