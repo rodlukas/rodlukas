@@ -1,29 +1,33 @@
 # Ing. Lukáš Rod
-I'm a **Software Engineer, Full Stack Web Developer, and Photographer**. I work as a **Frontend & GQL Developer for Czech TV's online video platform iVysílání**. I love nature (Ore Mountains ❤), traveling, and urbex. I graduated from **FIT CTU** Prague with a Master's degree (Ing.) in *Web and Software Engineering (specialization Software Engineering)*.
 
-I focus on creating responsive custom websites/web applications and easy-to-use information systems. The development includes meetings and cooperation with a customer, SW analysis, design, implementation, testing, and maintenance.
+I'm a **Full Stack Developer and TechLead** with 12+ years of experience. I currently work as a **TechLead & Senior Frontend+Node Developer for Czech TV's online video platform iVysílání**. Apart from programming, I also do photography (Ore Mountains ❤). A graduate of a master's programme at **FIT CTU** (_Web and Software Engineering_, Ing.).
+
+I focus on creating responsive custom websites/web applications and easy-to-use information systems. The development includes meetings and cooperation with customers, SW analysis, design, implementation, testing, and maintenance.
 
 ## Tech stack
-**Frontend:** React 19 / TypeScript / HTML 5 / CSS 3 - vanilla extract / JS / customized Bootstrap 5 (nebo Reactstrap) / SPA (Single-Page-App) 
+
+**Frontend:** React 19 / TypeScript / HTML 5 / CSS 3 / vanilla extract / JavaScript / Bootstrap 5 / Reactstrap / SPA
 
 P.S. In love ❤ with React!
 
-> My target is a unique responsive highly usable web site/app built according to customers' requirements, recognizable by a visitor at first glance – no edited themes/templates you can see used in every second website.
+> My goal is a unique, responsive, highly usable website/app built according to customers' requirements, recognizable by a visitor at first glance – no off-the-shelf themes or templates you see on every other website.
 
-**Backend:** Node.js (Fastify), GraphQL (Apollo, Mercurius, Pothos), PHP 8 (Laravel 11, Filament 3), Python 3 (Gunicorn, Django web framework, REST API–Django REST Framework), MySQL / PostgreSQL / Redis 
+**Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / PHP 8 / Laravel 11 / Filament 3 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
 
-**Other tools & skills:** Git, monorepo (Lerna/npm workspaces), Gitlab & GitHub CI/CD (GitHub Actions), Webpack, A11Y (přístupnost), Figma, Abstract, Sketch, SEO, Jira, Confluence, Sentry, GTM, Docker, TDD, Scrum, Agile, ESLint, Jest, Vitest, Prettier, Kibana, Grafana, Playwright, Tanstack Query, Selenium (E2E testing)… 
+**Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Jest / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
 
 ## Work experience
-**2020–today:** Senior Frontend & GQL Developer - Česká televize - [iVysílání](https://www.ceskatelevize.cz/ivysilani/)
 
-**2014–today:** freelancer - creating responsive custom websites/web applications and easy-to-use information systems
+**2020–present:** TechLead & Senior Frontend+Node Developer - Česká televize - [iVysílání](https://www.ceskatelevize.cz/ivysilani/)
+
+**2014–present:** freelancer - creating responsive custom websites/web applications and easy-to-use information systems
 
 ## CV
 
-Check out my CV [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod-2024.pdf) or more updated portfolio [in Czech](https://lukasrod.cz/projekty/).
+Check out my CV [in Czech](https://lukasrod.cz/kontakt/CV_Lukas_Rod.pdf) or a more up-to-date portfolio [in Czech](https://lukasrod.cz/projekty/).
 
 ## Contact
-* **Website:** [lukasrod.cz](https://lukasrod.cz)
-* **E-mail:** jobs@lukasrod.cz
-* **Social:** [LinkedIn](https://www.linkedin.com/in/rodlukas/) / [Facebook](https://www.facebook.com/rod.lukas) / [Instagram](https://www.instagram.com/rod.lukas/)
+
+- **Website:** [lukasrod.cz](https://lukasrod.cz)
+- **E-mail:** jobs@lukasrod.cz
+- **Social:** [LinkedIn](https://www.linkedin.com/in/rodlukas/) / [GitHub](https://github.com/rodlukas/) / [Instagram](https://www.instagram.com/rod.lukas/) / [Facebook](https://www.facebook.com/rod.lukas)
