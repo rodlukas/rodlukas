@@ -20,7 +20,7 @@ P.S. In love ❤ with React!
 
 **Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / PHP 8 / Laravel 11 / Filament 3 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
 
-**Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Jest / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
+**Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
 
 ## Work experience
 
