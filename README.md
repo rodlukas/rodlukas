@@ -1,6 +1,6 @@
 # Ing. Lukáš Rod
 
-I'm a **Full Stack Developer and TechLead** with 12+ years of experience.
+I'm a **Full Stack Developer and TechLead** with 13+ years of experience.
 
 I currently work as a **TechLead & Senior Frontend+Node Developer for Czech TV's online video platform iVysílání**.
 
@@ -12,13 +12,13 @@ I focus on creating responsive custom websites/web applications and easy-to-use 
 
 ## Tech stack
 
-**Frontend:** React 19 / TypeScript / HTML 5 / CSS 3 / vanilla extract / JavaScript / Bootstrap 5 / Reactstrap / SPA
+**Frontend:** React 19 / TypeScript / Next.js / HTML 5 / CSS 3 / vanilla extract / JavaScript / Bootstrap 5 / SPA
 
 P.S. In love ❤ with React!
 
 > My goal is a unique, responsive, highly usable website/app built according to customers' requirements, recognizable by a visitor at first glance – no off-the-shelf themes or templates you see on every other website.
 
-**Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / PHP 8 / Laravel 11 / Filament 3 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
+**Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / PHP 8 / Laravel 13 / Filament 5 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
 
 **Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
 
