@@ -12,15 +12,15 @@ I focus on creating responsive custom websites/web applications and easy-to-use 
 
 ## Tech stack
 
-**Frontend:** React 19 / TypeScript / Next.js / HTML 5 / CSS 3 / vanilla extract / JavaScript / Bootstrap 5 / SPA
+**Frontend:** React 19 / TypeScript / Next.js / HTML 5 / CSS 3 / vanilla-extract / JavaScript / Bootstrap 5 / SPA
 
 P.S. In love ❤ with React!
 
 > My goal is a unique, responsive, highly usable website/app built according to customers' requirements, recognizable by a visitor at first glance – no off-the-shelf themes or templates you see on every other website.
 
-**Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / PHP 8 / Laravel 13 / Filament 5 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
+**Backend:** Node.js / Fastify / GraphQL / Apollo / Mercurius / Pothos / Cloudflare Workers / PHP 8 / Laravel 13 / Filament 5 / Python 3 / Django / Django REST Framework / REST API / MySQL / PostgreSQL / Redis
 
-**Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
+**Other tools & skills:** Git / monorepo / GitLab CI/CD / GitHub Actions / Vite / Webpack / Accessibility / Figma / Sketch / SEO / Jira / Confluence / Sentry / GTM / Docker / TDD / Scrum / Agile / ESLint / Vitest / Prettier / Kibana / Grafana / Playwright / TanStack Query / Selenium / Claude Code / GitHub Copilot / Cursor / Agentic development
 
 ## Work experience
 
